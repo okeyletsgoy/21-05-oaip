@@ -1,0 +1,30 @@
+C:\Users\Александр\Desktop\Study\Проекты C#\OAiP 22.05\OAiP 22.05\obj\Debug\OAiP 22.05.csprojAssemblyReference.cache
+C:\Users\Александр\Desktop\Study\Проекты C#\OAiP 22.05\OAiP 22.05\obj\Debug\MainWindow.g.cs
+C:\Users\Александр\Desktop\Study\Проекты C#\OAiP 22.05\OAiP 22.05\obj\Debug\App.g.cs
+C:\Users\Александр\Desktop\Study\Проекты C#\OAiP 22.05\OAiP 22.05\obj\Debug\OAiP 22.05_MarkupCompile.cache
+C:\Users\Александр\Desktop\Study\Проекты C#\OAiP 22.05\OAiP 22.05\obj\Debug\OAiP 22.05_MarkupCompile.lref
+C:\Users\Александр\Desktop\Study\Проекты C#\OAiP 22.05\OAiP 22.05\bin\Debug\OAiP 22.05.exe.config
+C:\Users\Александр\Desktop\Study\Проекты C#\OAiP 22.05\OAiP 22.05\bin\Debug\OAiP 22.05.exe
+C:\Users\Александр\Desktop\Study\Проекты C#\OAiP 22.05\OAiP 22.05\bin\Debug\OAiP 22.05.pdb
+C:\Users\Александр\Desktop\Study\Проекты C#\OAiP 22.05\OAiP 22.05\obj\Debug\MainWindow.baml
+C:\Users\Александр\Desktop\Study\Проекты C#\OAiP 22.05\OAiP 22.05\obj\Debug\OAiP 22.05.g.resources
+C:\Users\Александр\Desktop\Study\Проекты C#\OAiP 22.05\OAiP 22.05\obj\Debug\OAiP_22._05.Properties.Resources.resources
+C:\Users\Александр\Desktop\Study\Проекты C#\OAiP 22.05\OAiP 22.05\obj\Debug\OAiP 22.05.csproj.GenerateResource.cache
+C:\Users\Александр\Desktop\Study\Проекты C#\OAiP 22.05\OAiP 22.05\obj\Debug\OAiP 22.05.csproj.CoreCompileInputs.cache
+C:\Users\Александр\Desktop\Study\Проекты C#\OAiP 22.05\OAiP 22.05\obj\Debug\OAiP 22.05.exe
+C:\Users\Александр\Desktop\Study\Проекты C#\OAiP 22.05\OAiP 22.05\obj\Debug\OAiP 22.05.pdb
+C:\Users\tropo\Desktop\OAiP-21.05-main\OAiP 21.05\OAiP 22.05\bin\Debug\OAiP 22.05.exe.config
+C:\Users\tropo\Desktop\OAiP-21.05-main\OAiP 21.05\OAiP 22.05\bin\Debug\OAiP 22.05.exe
+C:\Users\tropo\Desktop\OAiP-21.05-main\OAiP 21.05\OAiP 22.05\bin\Debug\OAiP 22.05.pdb
+C:\Users\tropo\Desktop\OAiP-21.05-main\OAiP 21.05\OAiP 22.05\obj\Debug\OAiP 22.05.csproj.AssemblyReference.cache
+C:\Users\tropo\Desktop\OAiP-21.05-main\OAiP 21.05\OAiP 22.05\obj\Debug\MainWindow.g.cs
+C:\Users\tropo\Desktop\OAiP-21.05-main\OAiP 21.05\OAiP 22.05\obj\Debug\App.g.cs
+C:\Users\tropo\Desktop\OAiP-21.05-main\OAiP 21.05\OAiP 22.05\obj\Debug\OAiP 22.05_MarkupCompile.cache
+C:\Users\tropo\Desktop\OAiP-21.05-main\OAiP 21.05\OAiP 22.05\obj\Debug\OAiP 22.05_MarkupCompile.lref
+C:\Users\tropo\Desktop\OAiP-21.05-main\OAiP 21.05\OAiP 22.05\obj\Debug\MainWindow.baml
+C:\Users\tropo\Desktop\OAiP-21.05-main\OAiP 21.05\OAiP 22.05\obj\Debug\OAiP 22.05.g.resources
+C:\Users\tropo\Desktop\OAiP-21.05-main\OAiP 21.05\OAiP 22.05\obj\Debug\OAiP_22._05.Properties.Resources.resources
+C:\Users\tropo\Desktop\OAiP-21.05-main\OAiP 21.05\OAiP 22.05\obj\Debug\OAiP 22.05.csproj.GenerateResource.cache
+C:\Users\tropo\Desktop\OAiP-21.05-main\OAiP 21.05\OAiP 22.05\obj\Debug\OAiP 22.05.csproj.CoreCompileInputs.cache
+C:\Users\tropo\Desktop\OAiP-21.05-main\OAiP 21.05\OAiP 22.05\obj\Debug\OAiP 22.05.exe
+C:\Users\tropo\Desktop\OAiP-21.05-main\OAiP 21.05\OAiP 22.05\obj\Debug\OAiP 22.05.pdb
